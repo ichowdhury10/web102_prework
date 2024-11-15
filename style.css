@@ -5,6 +5,10 @@ body {
     background-color: #758190;
 }
 
+nav {
+    color: aqua;
+}
+
 #tentacles {
     width: 50px;
 }
@@ -21,6 +25,13 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue
 }
 
 .stats-card {
