@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
-GIF created with Kap
+https://github.com/user-attachments/assets/569ded61-df57-4c4a-a2c5-fc34cec51743
 
 ## Notes
 
